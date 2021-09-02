@@ -1,15 +1,10 @@
-message: "Please cite it as below if you use htis software"
+message: "Please cite it as below if you use this software"
 authors:
-- family-name: "Anant"
-  given-name: "Gadodia"
-- family-name: "Goyal"
-  given-name: "Anmolika"
-- family-name: "Someswar Karra"
-  given-name: "Shreya"
-- family-name: "Jain"
-  given-name: "Shubhangi"
-- family-name: "Marne Shiva Rao"
-  given-name: "Srujana"
+- given-name: "Anant Gadodia"
+- given-name: "Anmolika Goyal"
+- given-name: "Shreya Someswar Karra"
+- given-name: "Shubhangi Jain"
+- given-name: "Srujana Marne Shiva Rao"
 
 
 title: "CSC 510 - SE homework 2b"
