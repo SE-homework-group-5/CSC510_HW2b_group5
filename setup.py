@@ -13,4 +13,5 @@ setup(
           "Development Status :: 1 - Planning",
           "Intended Audience :: Developers",
       ],
+)
       
