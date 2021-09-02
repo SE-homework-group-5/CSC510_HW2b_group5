@@ -38,7 +38,7 @@ Fibonacci is extremely interesting if you like cool math features. Do check out 
 - Anant Gadodia (agadodi@ncsu.edu)
 - Anmolika Goyal (agoyal4@ncsu.edu)
 - Shreya Someswar Karra (sskarra@ncsu.edu)
-- Shubhagi Jain (sjain29@ncsu.edu)
+- Shubhangi Jain (sjain29@ncsu.edu)
 - Srujana Marne Shiva Rao (smarnes@ncsu.edu)
 
 # Zenodo citation data
