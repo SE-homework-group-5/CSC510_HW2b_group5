@@ -1,31 +1,16 @@
 from setuptools import setup
 setup(
-    name='spatialtree',
-    version='0.1',
-    description='Module for building spatial spill trees (KD, PCA, RP, 2-means)',
-    author='Brian McFee',
-    author_email='bmcfee@cs.ucsd.edu',
-    url='http://www-cse.ucsd.edu/~bmcfee/code/spatialtree/',
-    packages=['spatialtree'],
-      long_description="""\
-        Module for building spatial spill trees.
-        Supported tree types:
-            * KD (maximum-variance)
-            * PCA (PD, principal direction)
-            * Random projection
-            * 2-means
-      """,
+    name='fibonacci series',
+    version='1.0.0',
+    description='series of numbers in which each number is the sum of the two preceding ones',
+    author='AnantGadodia',
+    author_email='agadodi@ncsu.edu',
+    url='https://github.com/SE-homework-group-5/CSC510_HW2b_group5',
+    
       classifiers=[
-          "License :: OSI Approved :: GNU General Public License (GPL)",
+          'License :: OSI Approved :: MIT License',,
           "Programming Language :: Python",
-          "Development Status :: 3 - Alpha",
+          "Development Status :: 1 - Planning",
           "Intended Audience :: Developers",
-          "Topic :: Data structures",
       ],
-      keywords='kd-tree rp-tree nearest-neighbor',
-      license='GPL',
-      install_requires=[
-        'numpy',
-        'scipy',
-      ],
-      )
+      
