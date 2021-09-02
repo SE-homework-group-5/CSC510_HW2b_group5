@@ -47,5 +47,7 @@ Fibonacci is extremely interesting if you like cool math features. Do check out 
 This project is licensed under the MIT License
 [![GitHub license](https://img.shields.io/github/license/AnmolikaGoyal/CSC510_HW2b)](https://github.com/AnmolikaGoyal/CSC510_HW2b/blob/main/LICENSE)
 # Open Issues  [![GitHub issues](https://img.shields.io/github/issues/SE-homework-group-5/CSC510_HW2b_group5)](https://github.com/SE-homework-group-5/CSC510_HW2b_group5/issues)
+# Version History
+- v1.0.0 - Latest release
 
 
