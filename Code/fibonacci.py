@@ -6,6 +6,8 @@ Created on Wed Sep  1 22:01:36 2021
 """
 #This is a python code to compute the fibonacci series upto n terms
 print("Fibonacci series")
+
+#taking input of number of terms
 n=int(input("Enter Nbr of Terms: "))
 
 a=0
