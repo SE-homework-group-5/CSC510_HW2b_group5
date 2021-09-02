@@ -15,4 +15,6 @@ Github repo to follow the specified structure
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5366712.svg)](https://doi.org/10.5281/zenodo.5366712)
 # License
 [![GitHub license](https://img.shields.io/github/license/AnmolikaGoyal/CSC510_HW2b)](https://github.com/AnmolikaGoyal/CSC510_HW2b/blob/main/LICENSE)
+# version 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5366712.svg)](https://doi.org/10.5281/zenodo.5366712)
 
