@@ -1,4 +1,8 @@
-# Homework 2b - Write a good Github Repo
+# CSC 510 SE Homework 2b 
+Write a "good" Github Repo
+
+# Description
+Github repo to follow the specified structure
 
 ## Group 5 members
 - Anant Gadodia (agadodi@ncsu.edu)
