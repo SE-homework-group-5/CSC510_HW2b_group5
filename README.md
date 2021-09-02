@@ -4,7 +4,7 @@ Project on Fibonnaci Series
 # Description
 What is Fibonacci Series? Apart from a fun name?
 It is a series of numbers in which each number is the sum of the two preceding ones. Sounds fun right? Let's see the basic working-
-For e.g. The the series is- 0 + 1 = 1, 1 + 1 = 2, 1 + 2 = 3 and so on. Go ahead try out your addition skills!
+For e.g. The series is- 0 + 1 = 1, 1 + 1 = 2, 1 + 2 = 3 and so on. Go ahead try out your addition skills!
 
 ![alt text](http://4.bp.blogspot.com/-aC5Bcv5AqfA/VP3hQmLlCxI/AAAAAAAAASw/GDaDhV3jg3U/s1600/fibonacci.gif)
 
