@@ -1,5 +1,5 @@
-message: "Please cite it as below if you use this software"
-authors:
+# Please cite as below if you use this software
+# authors:
 - given-name: "Anant Gadodia"
 - given-name: "Anmolika Goyal"
 - given-name: "Shreya Someswar Karra"
