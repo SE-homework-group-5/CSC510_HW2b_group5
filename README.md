@@ -29,7 +29,7 @@ Fibonacci Series also appears in the pascal's triangle as shown below-
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
 
-Fibonacci is extremely interesting if you like cool math features. Do check out the repo if you want to learnsomething new and amazing!!!
+Fibonacci is extremely interesting if you like cool math features. Do check out the repo if you want to learn something new and amazing!!!
 
 
 
