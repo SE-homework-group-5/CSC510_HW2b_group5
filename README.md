@@ -16,7 +16,7 @@ Now everybody hop on the one, the sounds of the two
 It’s the third eye vision, five side dimension
 The 8th Light, is gonna shine bright tonight
 
-ISN'T THIS AWESOME!!!!!!
+ISN'T THIS AWESOME???
 
 Fibonacci Series also appears in the pascal's triangle as shown below-
 
