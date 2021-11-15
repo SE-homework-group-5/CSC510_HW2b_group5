@@ -1,5 +1,5 @@
 # CSC 510 SE Homework 2b 
-Project on Fibonnaci Series
+Project on Fibonnaci Series<br />
 The aim of this project is to build a well structured github repository with all necessary contents
 
 # Description
